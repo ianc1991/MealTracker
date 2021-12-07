@@ -1,0 +1,6 @@
+C:\Demos\MealLogger\App\MealLibrary\MealLogger\bin\Release\MealLogger.dll
+C:\Demos\MealLogger\App\MealLibrary\MealLogger\bin\Release\MealLogger.pdb
+C:\Demos\MealLogger\App\MealLibrary\MealLogger\obj\Release\MealLogger.csproj.AssemblyReference.cache
+C:\Demos\MealLogger\App\MealLibrary\MealLogger\obj\Release\MealLogger.csproj.CoreCompileInputs.cache
+C:\Demos\MealLogger\App\MealLibrary\MealLogger\obj\Release\MealLogger.dll
+C:\Demos\MealLogger\App\MealLibrary\MealLogger\obj\Release\MealLogger.pdb
